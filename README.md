@@ -18,7 +18,7 @@ no buffer expansion or scrolling
 
 ### Notes:
 
-currently its in very early stages, this is version 0.0.3 so be sure to know that there is bugs 
+currently its in very early stages, this is version 0.1.0 so be sure to know that there is bugs 
 
 ### Binds:
 
